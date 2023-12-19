@@ -1,0 +1,1 @@
+docker run --rm --name localstack -d -p 4566:4566 -p 4510-4559:4510-4559 localstack/localstack:3.0.2
