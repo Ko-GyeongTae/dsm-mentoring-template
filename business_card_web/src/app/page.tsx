@@ -10,7 +10,9 @@ export default function Home() {
         </p>
       </div>
 
-      <div className={styles.center}>        
+      <div className={styles.center}>    
+        <input type='file'/>
+        <button>전송</button>
       </div>
 
       <div>
