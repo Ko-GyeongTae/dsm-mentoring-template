@@ -1,0 +1,8 @@
+# Mac OS
+.DS_Store
+
+.env
+
+# node
+dist
+node_modules
